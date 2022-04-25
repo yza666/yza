@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: "微软雅黑";
+}
+.header{
+	width: 100%;
+	height: 50px;
+	background-color: #cf4646;
+	margin: auto 0px;
+}
+.header1{
+	width: 128px;
+	height: 50px;
+	text-align: center;
+	color: #efefef;
+	font-size: 18px;
+	margin: 0px 0px 0px -15px;
+	padding: 15px;
+	position: absolute;
+	left: 270px;
+	top: -5px
+}
+.header2{
+	width: 780px;
+	height: 50px;
+	position: absolute;
+	right: 150px;
+}
+.header2-1{
+	width: 58px;
+	height: 50px;
+	text-align: center;
+	color: #e8e8e8;
+	margin: 10px 10px;
+	float: left;
+	font-size: 15px;
+}
+.header2-2{
+	width: 55px;
+	height: 50px;
+	text-align: center;
+	color: #e8e8e8;
+	margin: 10px 10px;
+	float: left;
+	font-size: 15px;
+}
+.header2-3{
+	width: 86px;
+	height: 50px;
+	text-align: center;
+	color: #e8e8e8;
+	margin: 10px 10px;
+	float: left;
+	font-size: 15px;
+}
+a{
+	color:#e8e8e8;
+	text-decoration:none;
+}
+a:hover{
+	color:#ffffff;
+}
+.banner{
+	width: 100%;
+	height: 380px;
+	background-color: #cf4646;
+	text-align: center;
+}
+.box1{
+	width: 200px;
+	height: 122px;
+	position: absolute;
+	left: 850px;
+	top: 50px;
+}
+.box2{
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	left: 5px;
+	top: 190px;
+	color: #FFFFFF;
+	font-size: 21px;
+	margin: 0px 0px 15px;
+}
+.banner .btm{
+	font-size: 18px;
+	color: #eeeeee;
+	border: 1px #eeeeee solid;
+	padding: 10px 15px;
+	position: absolute;
+	top: 250px;
+	left: 900px;
+}
+.banner .btm:hover{
+	color: #ffffff;
+	border-color: #ffffff;
+}
+.main{
+	width: 1400px;
+	height: 300px;
+	position: absolute;
+	top: 450px;
+	right: 120px;
+}
+.tail1{
+	width: 585px;
+	height: 144px;
+	float: left;
+	color: #333333;
+}
+.tail1 h2{
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.tail1 p{
+	font-size: 20px;
+	margin-top: 20px;
+}
+.box4{
+	width: 1140px;
+	height: 20px;
+	margin: 0px auto;
+	position: absolute;
+	top: 780px;
+	right: 400px;
+	color: #AAAAAA;
+	text-align: center;
+}
+.footer{
+	width: 1440px;
+	height: 20px;
+	margin: 0px auto;
+	position: absolute;
+	top: 820px;
+	right: 100px;
+}
+.box5-1{
+	width: 102px;
+	height: 16px;
+	color: #AAAAAA;
+	float: left;
+	text-align: center;
+	font-size: 12px;
+}
+.box5-2{
+	width: 56px;
+	height: 16px;
+	color: #AAAAAA;
+	text-align: center;
+	font-size: 12px;
+	position: absolute;
+	top: 840px;
+	right: 940px;
+}
+.box5-3{
+	width: 76px;
+	height: 16px;
+	color: #AAAAAA;
+	text-align: center;
+	font-size: 12px;
+	float: left;
+}
+.box6{
+	width: 1140px;
+	height: 20px;
+	color: #AAAAAA;
+	position: absolute;
+	top: 865px;
+	right: 380px;
+	text-align: center;
+	font-size: 12px;
+}
